@@ -1,2 +1,3 @@
 # Crunch-WinS
-Crunch (extract) Windows logon sessions.
+
+  Win32 application capable to show different logon sessions when run as administrator.
