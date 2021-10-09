@@ -1,4 +1,4 @@
-# Crunch-WinS
+# Crunch WinS
 
   ![Crunch WinS](./Head.png)
 
